@@ -1,0 +1,14 @@
+recipe-sysroot-native/sysroot-providers/libssh2-native
+recipe-sysroot-native/usr/lib/libssh2.so
+recipe-sysroot-native/usr/lib/libssh2.so.1
+recipe-sysroot-native/usr/lib/libssh2.so.1.0.1
+recipe-sysroot-native/usr/lib/pkgconfig/libssh2.pc
+recipe-sysroot-native/usr/include/libssh2_sftp.h
+recipe-sysroot-native/usr/include/libssh2.h
+recipe-sysroot-native/usr/include/libssh2_publickey.h
+recipe-sysroot-native/usr/lib/pkgconfig/
+recipe-sysroot-native/sysroot-providers/
+recipe-sysroot-native/usr/include/
+recipe-sysroot-native/usr/share/
+recipe-sysroot-native/usr/lib/
+recipe-sysroot-native/usr/

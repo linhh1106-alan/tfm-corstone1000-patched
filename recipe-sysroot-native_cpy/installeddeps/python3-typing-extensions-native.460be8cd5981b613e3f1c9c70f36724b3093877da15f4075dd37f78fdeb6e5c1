@@ -1,0 +1,14 @@
+recipe-sysroot-native/sysroot-providers/python3-typing-extensions-native
+recipe-sysroot-native/usr/lib/python3.10/site-packages/typing_extensions.py
+recipe-sysroot-native/usr/lib/python3.10/site-packages/__pycache__/typing_extensions.cpython-310.pyc
+recipe-sysroot-native/usr/lib/python3.10/site-packages/typing_extensions-4.3.0.dist-info/METADATA
+recipe-sysroot-native/usr/lib/python3.10/site-packages/typing_extensions-4.3.0.dist-info/LICENSE
+recipe-sysroot-native/usr/lib/python3.10/site-packages/typing_extensions-4.3.0.dist-info/RECORD
+recipe-sysroot-native/usr/lib/python3.10/site-packages/typing_extensions-4.3.0.dist-info/WHEEL
+recipe-sysroot-native/usr/lib/python3.10/site-packages/typing_extensions-4.3.0.dist-info/
+recipe-sysroot-native/usr/lib/python3.10/site-packages/__pycache__/
+recipe-sysroot-native/usr/lib/python3.10/site-packages/
+recipe-sysroot-native/usr/lib/python3.10/
+recipe-sysroot-native/sysroot-providers/
+recipe-sysroot-native/usr/lib/
+recipe-sysroot-native/usr/

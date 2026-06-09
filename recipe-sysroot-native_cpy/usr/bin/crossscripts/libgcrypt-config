@@ -1,0 +1,4 @@
+#!/bin/sh
+echo 'ERROR: /work/tmp/work/corstone1000_fvp-poky-linux-musl/trusted-firmware-m/1.6.0-r0/recipe-sysroot-native/usr/bin/libgcrypt-config should not be used, use an alternative such as pkg-config' >&2
+echo '--should-not-have-used-/work/tmp/work/corstone1000_fvp-poky-linux-musl/trusted-firmware-m/1.6.0-r0/recipe-sysroot-native/usr/bin/libgcrypt-config'
+exit 1
