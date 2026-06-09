@@ -1,0 +1,11 @@
+build/
+*_cpy/
+recipe-sysroot/
+recipe-sysroot-native/
+recipe-sysroot-native_cpy/
+tmp/
+*.o
+*.a
+*.elf
+*.bin
+*.map

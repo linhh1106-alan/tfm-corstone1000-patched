@@ -1,0 +1,7 @@
+0001-corstone1000-platform-secure-test-framework.patch -p1
+0002-corstone1000-make-external-system-support-optional.patch -p1
+0003-corstone1000-enable-secure-enclave-run-without-host-.patch -p1
+0004-Platform-Partition-Allow-configuration-of-input-and-.patch -p1
+0005-corstone1000-support-for-UEFI-FMP-image-Information.patch -p1
+0006-corstone1000-remove-two-partition-configuration.patch -p1
+0007-corstone1000-adjust-PS-asset-configuration.patch -p1

@@ -1,0 +1,4 @@
+0001-BUILD-Update-IAR-support-in-CMakeLists.txt.patch
+0002-Enable-crypto-code-sharing-between-independent-binar.patch
+0003-Disable-export-MbedTLSTargets.patch
+0004-CC3XX-Hardcode-entry-points-for-the-CC3XX-driver.patch
