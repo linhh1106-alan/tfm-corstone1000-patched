@@ -1,0 +1,32 @@
+# 0 "/work/tmp/work/corstone1000_fvp-poky-linux-musl/trusted-firmware-m/1.6.0-r0/build/bl2/ext/mcuboot/signing_layout_s.c"
+# 1 "/work/tmp/work/corstone1000_fvp-poky-linux-musl/trusted-firmware-m/1.6.0-r0/build//"
+# 0 "<built-in>"
+# 0 "<command-line>"
+# 1 "/work/tmp/work/corstone1000_fvp-poky-linux-musl/trusted-firmware-m/1.6.0-r0/build/bl2/ext/mcuboot/signing_layout_s.c"
+
+
+
+
+
+
+# 1 "/work/tmp/work/corstone1000_fvp-poky-linux-musl/trusted-firmware-m/1.6.0-r0/git/tfm/platform/ext/target/arm/corstone1000/partition/region_defs.h" 1
+# 21 "/work/tmp/work/corstone1000_fvp-poky-linux-musl/trusted-firmware-m/1.6.0-r0/git/tfm/platform/ext/target/arm/corstone1000/partition/region_defs.h"
+# 1 "/work/tmp/work/corstone1000_fvp-poky-linux-musl/trusted-firmware-m/1.6.0-r0/git/tfm/platform/ext/target/arm/corstone1000/partition/flash_layout.h" 1
+# 22 "/work/tmp/work/corstone1000_fvp-poky-linux-musl/trusted-firmware-m/1.6.0-r0/git/tfm/platform/ext/target/arm/corstone1000/partition/region_defs.h" 2
+# 8 "/work/tmp/work/corstone1000_fvp-poky-linux-musl/trusted-firmware-m/1.6.0-r0/build/bl2/ext/mcuboot/signing_layout_s.c" 2
+
+
+
+enum image_attributes {
+    RE_SECURE_IMAGE_OFFSET = (0x0),
+    RE_SECURE_IMAGE_MAX_SIZE = ((0x5E000)),
+    RE_NON_SECURE_IMAGE_OFFSET = ((0x5E000)),
+    RE_NON_SECURE_IMAGE_MAX_SIZE = (0x0),
+
+    RE_IMAGE_LOAD_ADDRESS = ((0x30000000)),
+
+    RE_SIGN_BIN_SIZE = ((0x5E000)),
+
+
+
+};
